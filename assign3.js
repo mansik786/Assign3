@@ -19,8 +19,8 @@ db.serialize(function() {
     db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (12,'Devinder','CSAT')");  
     db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (13,'Lovepreet','CPCT')");
     db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (14,'Navjot','Business')");
-    db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (15,'Prabhjot','HR')");
-    db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (16,'Gunni nunni','Finance')");
+    db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (15,'Mansi','HR')");
+    db.run("INSERT into Students(Student_id,Student_name,Program_Grp) VALUES (16,'Maninder','Finance')");
    
 });  
 
